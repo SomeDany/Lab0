@@ -40,7 +40,6 @@
 	background:transparent;   /* Цвет поля группы выборочного меню */
 	}
 #mainmenu li ul li a:hover {
-	  /* Цвет фона подменю */
 	color:red;
 }
 #m1 ul {
